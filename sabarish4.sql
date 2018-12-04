@@ -1,0 +1,1 @@
+select * from SABARIS_CUSTOMER_TABLE;
